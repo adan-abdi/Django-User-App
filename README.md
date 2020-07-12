@@ -3,10 +3,11 @@
 </a>
 
 Django-User-App
-<br>
-======================
+
+
 
 :star: Star us on GitHub — it helps!
+======================
 
 <br>
 
