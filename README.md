@@ -4,10 +4,7 @@
 
 Django-User-App
 
-
-
 :star: Star us on GitHub — it helps!
-======================
 
 <br>
 
