@@ -1,8 +1,9 @@
 <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django-User-App" title="Django-User-App" align="right" height="100" />
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django-User-App" title="Django-User-App" align="right" height="80" />
 </a>
 
 Django-User-App
+<br>
 ======================
 
 :star: Star us on GitHub — it helps!
@@ -13,7 +14,6 @@ A Reusable Django User app boilerplate with social authentication, registration,
 
 
 **Getting Started**
----
 
 1. Setting up a virtual environment
 
