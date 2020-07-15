@@ -5,10 +5,17 @@
 # Django-User-App
 
 :star: Star us on GitHub — it helps!
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <br>
 
 A Reusable Django User app boilerplate with social authentication, registration, login, password reset emails and change and custom templates intended for use as a ready-made plug and play user management app.
+
+Social Authentication providers I am looking to intergrate are; 
+1. Github
+2. Google
+3. Facebook
+4. Twitter
 
 
 **Getting Started**
