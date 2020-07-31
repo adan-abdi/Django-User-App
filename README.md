@@ -5,6 +5,7 @@
 # Django-User-App
 
 :star: Star us on GitHub — it helps!
+<br/>
 <a href="#">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="Django-User-App" title="Django-User-App" height="30" />
 </a>
