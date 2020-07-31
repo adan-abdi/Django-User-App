@@ -5,9 +5,9 @@
 # Django-User-App
 
 :star: Star us on GitHub — it helps!
-<br>
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
+<a href="#">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="Django-User-App" title="Django-User-App" height="30" />
+</a>
 <br>
 
 A Reusable Django User app boilerplate with social authentication, registration, login, password reset emails and change and custom templates intended for use as a ready-made plug and play user management app.
